@@ -1,4 +1,4 @@
-ARG FROM_IMAGE_NAME=nvcr.io/nvidia/tensorrt:22.12-py3
+ARG FROM_IMAGE_NAME=nvcr.io/nvidia/tensorrt:23.04-py3
 
 FROM ${FROM_IMAGE_NAME}
 
